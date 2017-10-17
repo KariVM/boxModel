@@ -1,0 +1,15 @@
+body{
+  background: orange;
+}
+
+div{
+  height: 100px
+}
+
+.yellow {
+  background-color: purple;
+}
+
+.black{
+  background-color: black;
+}
